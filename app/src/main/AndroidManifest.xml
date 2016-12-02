@@ -27,7 +27,6 @@
             android:screenOrientation="portrait"
             android:name=".CrimePagerActivity"
             android:label="Find_picture">
-
         </activity>
 
         <activity
